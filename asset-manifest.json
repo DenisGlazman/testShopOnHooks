@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testShopOnHooks/static/css/main.dd1564bf.css",
+    "main.js": "/testShopOnHooks/static/js/main.6b51e615.js",
+    "index.html": "/testShopOnHooks/index.html",
+    "main.dd1564bf.css.map": "/testShopOnHooks/static/css/main.dd1564bf.css.map",
+    "main.6b51e615.js.map": "/testShopOnHooks/static/js/main.6b51e615.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd1564bf.css",
+    "static/js/main.6b51e615.js"
+  ]
+}
